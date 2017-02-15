@@ -44,6 +44,8 @@
     "clapp": "^1.0.1",
     "discord.js": "^10.0.1",
     "opusscript": "0.0.1",
-    "ytdl-core": "latest"
+    "ytdl-core": "latest",
+    "sleep": "latest",
+    "shuffle-array": "latest"
   }
 }
