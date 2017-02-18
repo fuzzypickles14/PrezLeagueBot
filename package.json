@@ -45,7 +45,14 @@
     "discord.js": "^10.0.1",
     "opusscript": "0.0.1",
     "ytdl-core": "latest",
-    "sleep": "latest",
-    "shuffle-array": "latest"
+    "colors": "latest",
+    "snoowrap": "latest",
+    "shuffle-array": "latest",
+    "jquery": "latest",
+    "ajax": "latest",
+    "request": "latest",
+    "async": "latest",
+    "asyncjs": "latest",
+    "Globals": "latest"
   }
 }

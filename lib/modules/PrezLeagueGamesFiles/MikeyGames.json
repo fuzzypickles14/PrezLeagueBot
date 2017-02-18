@@ -1,0 +1,133 @@
+{
+  "response": {
+    "game_count": 16,
+    "games": [
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_forever": 152,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "img_logo_url": "93c9364c3942223ab66195182fe1982af8a16584",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 7670,
+        "name": "BioShock",
+        "playtime_forever": 0,
+        "img_icon_url": "9a7c9f640a76e6a32592277dbbc36a0f6da05372",
+        "img_logo_url": "4c2a7f97e6556a95319eb346aed7beff9fe0535c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 409710,
+        "name": "BioShock Remastered",
+        "playtime_forever": 87,
+        "img_icon_url": "eb72262cd3ccc3219dd76392be3b60a4b6cbfd38",
+        "img_logo_url": "cb7318b68128f6aa90c9e4e2d14544281ac22da0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 10090,
+        "name": "Call of Duty: World at War",
+        "playtime_forever": 257,
+        "img_icon_url": "2bfb85222af4a01842baa5c3a16a080eb27ac6c3",
+        "img_logo_url": "281c6232bf39e96f2592e241dafe02ef54499df5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 22320,
+        "name": "The Elder Scrolls III: Morrowind",
+        "playtime_forever": 137,
+        "img_icon_url": "b8c92762a15c48d39d0f24417b3706a437f5867e",
+        "img_logo_url": "ab95d8b15313ff3ae93e0fc7bdef4adfc2527694"
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 39,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "img_logo_url": "783399da7d865b7b5b1560891b1e9463345e8fa9",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 8870,
+        "name": "BioShock Infinite",
+        "playtime_forever": 1495,
+        "img_icon_url": "4ebaf5f9ee74f50152f7ff361debef7553fa0e4e",
+        "img_logo_url": "870bb889e192cf8d31876ed04d329a5d51c6fc2c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "playtime_forever": 3811,
+        "img_icon_url": "b9aca8a189abd8d6aaf09047dbb0f57582683e1c",
+        "img_logo_url": "c5af3cde13610fca25cd17634a96d72487d21e74",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 242920,
+        "name": "Banished",
+        "playtime_forever": 453,
+        "img_icon_url": "1c499bc7d659ddde65a1cd3f2cd7b6122211b4b1",
+        "img_logo_url": "2a62342148979d18e2b50ab8c5eebcfe6c99295c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 409,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "img_logo_url": "287f5039fc7d51c7e5b0fd59fa4219f90e28b0e0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 346010,
+        "name": "Besiege",
+        "playtime_forever": 1298,
+        "img_icon_url": "16667f445723c720782314269e41f9daa8a7fb56",
+        "img_logo_url": "d629e7d15a59c8195d0b1c72f8e9e28e78842c96",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "playtime_forever": 115,
+        "img_icon_url": "6cf7b10dd29db28448ef79698ed2118a03617d63",
+        "img_logo_url": "1b90f32be112870a4fa22c819a358d047b38d97f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 365720,
+        "name": "Skyrim Script Extender (SKSE)",
+        "playtime_forever": 1,
+        "img_icon_url": "48eaa1815ac4beddc4d7c9fec6c2517f6f0b718e",
+        "img_logo_url": "2e321af767f304de67d59f9c4329a8b8d553739b"
+      },
+      {
+        "appid": 219740,
+        "name": "Don't Starve",
+        "playtime_forever": 1335,
+        "img_icon_url": "03fe647df40dccc4d19bf42a0185cd3e6b9f2953",
+        "img_logo_url": "46cbbc2fcb14eb0bbbbaebbdf0b1e0eaf6f4c646"
+      },
+      {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "playtime_forever": 7127,
+        "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f",
+        "img_logo_url": "8977a8e98acbbdd3c0ff905afb7e0a6e2eb555ea",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "playtime_forever": 19,
+        "img_icon_url": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d",
+        "img_logo_url": "356b389ad5e6937f097b21b23acbb89608878ecf",
+        "has_community_visible_stats": true
+      }
+    ]
+
+  }
+}
